@@ -1,5 +1,12 @@
-### Hi there 👋
+### 👋 Hello. I’m Nathan.
 
+I work as a technical writer because I love learning and teaching and reading and writing. 🤓
+
+My goals include developing documentation that helps people to help other people. 🤝 ♻️
+
+I'm interested in writing for projects related to art, education, literature, and/or politics.
+
+You can find out more here: www.nathanbarbarick.com.
 <!--
 **nbarbarick/nbarbarick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
