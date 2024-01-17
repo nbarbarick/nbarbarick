@@ -4,9 +4,7 @@ I'm a creative and analytical writer and editor helping to build the bridge betw
 
 My professional background in technical publications and as an educator allows me to bring a love of reading, writing, teaching, and learning to complex software documentation projects.
 
-Currently, I'm finishing a Master of Science degree in technical writing at Portland State University, where I'm learning as much as I can about the tools and technologies developers use to bring this weird and beautiful internet to life.
-
-[Check out my resume](https://www.nathanbarbarick.com/assets/pdfs/nathan-barbarick-resume.pdf) and [email me](mailto:nathanbarbarick@gmail.com) if you'd like to discuss my assistance on your project. I'm most excited by docs-as-code workflows, the full stack, and open source software that helps people do awesome things.
+[Check out my resume](https://www.nathanbarbarick.com/assets/nathan-barbarick-resume.pdf) and [email me](mailto:nathanbarbarick@gmail.com) if you'd like to discuss my assistance on your project. I'm most excited by docs-as-code workflows, the full stack, and open source software that helps people do awesome things.
 <!--
 **nbarbarick/nbarbarick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
